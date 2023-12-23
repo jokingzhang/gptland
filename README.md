@@ -1,7 +1,5 @@
 <div align="center">
-<img src="./docs/logo-light.png" alt="icon"/>
-
-<h1 align="center">ChatGPT Next Web</h1>
+<img width="238" height="100" src="./docs/logo-light.png" alt="icon"/>
 
 ![cover](./docs/cover1.png)
 ![cover](./docs/cover2.png)
