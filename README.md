@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./docs/logo-light" alt="icon"/>
+<img src="./docs/logo-light.png" alt="icon"/>
 
 <h1 align="center">ChatGPT Next Web</h1>
 
